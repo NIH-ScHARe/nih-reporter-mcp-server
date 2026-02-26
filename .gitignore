@@ -15,3 +15,4 @@ secrets/
 
 # ignore scripts 
 scripts/
+.databricks
